@@ -1,6 +1,6 @@
 let timeout;
 
-const throttle = (func, limit) => {
+module.exports = (func, limit) => {
   if (!timeout) {
     timeout = setTimeout(function () {
       func();
