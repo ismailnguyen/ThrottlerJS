@@ -1,6 +1,6 @@
 {
   "name": "throttler-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple Javascript function Throttler",
   "main": "index.js",
   "scripts": {

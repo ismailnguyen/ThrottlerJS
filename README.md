@@ -1,7 +1,7 @@
 # throttler-js
 A simple Javascript Throttler
 
-## Instal
+## Install
 ```shell
 npm install throttler-js
 ```
