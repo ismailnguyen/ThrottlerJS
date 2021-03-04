@@ -1,7 +1,12 @@
 {
   "name": "throttler-js",
-  "version": "1.0.2",
-  "description": "A simple Javascript function Throttler",
+  "short_description": "A simple Javascript Throttler",
+  "description": "throttler-js allows you to improve your application’s performance by limiting the number of events your code needs to handle.You should use a throttle when you want to execute a callback at a controlled rate, allowing you to handle intermediate states repeatedly at each fixed interval of time.",
+  "version": "1.0.3",
+  "author": "Ismaïl NGUYEN <nguyen.ismail@gmail.com>",
+  "repository": "https://github.com/ismailnguyen/throttler-js.git",
+  "license": "Under WTFPL licence",
+  "license_url": "http://www.wtfpl.net",
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll"
